@@ -1,1 +1,1 @@
-hello ubuntu
+this is the vargant directory
